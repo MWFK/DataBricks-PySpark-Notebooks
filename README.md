@@ -20,4 +20,39 @@ Prerequisites
     Experience using SQL to query data from enterprise data stores
     Familiarity with basic cloud concepts (virtual machines, object storage, identity management)
     Basic familiarity with Python variables, functions, and control flow (preferred)
+    
+Modules 
 
+    1. Using the Databricks Lakehouse Platform
+
+    2. ELT with Spark SQL and Python
+
+    3. Incremental Data and Delta Live Tables
+
+    4. Managing Data Access and Production Pipelines
+
+Chapters
+
+    01 - Databricks Workspace and Services
+
+    02 - Delta Lake
+
+    03 - Relational Entities on Databricks
+
+    04 - ETL with Spark SQL
+
+    05 - OPTIONAL Python for Spark SQL
+
+    06 - Incremental Data Processing
+
+    07 - Multi-Hop Architecture
+
+    08 - Delta Live Tables
+
+    09 - Task Orchestration with Jobs
+
+    10 - Running a DBSQL Query
+
+    11 - Managing Permissions
+
+    12 - Productionalizing Dashboards and Queries in DBSQL
