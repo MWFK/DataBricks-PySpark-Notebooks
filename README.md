@@ -56,3 +56,9 @@ Chapters
     11 - Managing Permissions
 
     12 - Productionalizing Dashboards and Queries in DBSQL
+    
+Sources
+
+    https://customer-academy.databricks.com/learn/course/62/play/4265/course-introduction-and-goals
+    
+    https://github.com/databricks-academy/data-engineering-with-databricks/tree/published/Data-Engineering-with-Databricks
