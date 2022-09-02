@@ -1,4 +1,4 @@
-# Databricks-Study-Materials
+# DataBricks-PySpark-Notebooks
 Data Engineering with Databricks Study Materials
 
 Course Description
